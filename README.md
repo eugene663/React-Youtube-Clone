@@ -9,3 +9,4 @@ https://eugene663.github.io/React-Youtube-Clone/
 내용 정리: https://eugene663.tistory.com/category/React/%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC
 
 React의 기본 문법 학습 및 유튜브 클론코딩
+: 홈, 탐색, 구독화면 구현
